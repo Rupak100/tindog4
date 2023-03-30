@@ -56,6 +56,9 @@ p {
 }
 
 /* Title Image */
+.img-col{
+  position:relative;
+}
 .title-image {
   width: 60%;
   /* height: 90%; */
@@ -63,8 +66,8 @@ p {
 
   position: absolute;
   /* left: 20%; */
-  right: 6%;
-  padding: 0% 20%;
+  right: 30%;
+/*   padding: 0% 20%; */
 }
 /* features */
 #features {
